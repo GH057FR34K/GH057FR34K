@@ -13,4 +13,4 @@ Email : GH057FR34K@dnmx.org
 [![](https://gtce.itsvg.in/api?username=GH057_FR34K)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GH057FR34K&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GH057FR34K&icon=0&color=0)](https://ghostfreak.github.io)
